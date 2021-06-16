@@ -1,0 +1,4 @@
+python_telegram_bot==13.6
+SpeechRecognition==3.8.1
+python-dotenv==0.17.1
+telegram==0.0.1
